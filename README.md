@@ -4,7 +4,7 @@
 
 The question many ask is "How do I start". I am documenting my journey and creating a roadmap/curriculum that can be used as a guide to learn MLOps. Since I learn more by doing, this journey is project-based.
 
-![MLOps Guide and Road Overview](https://res.cloudinary.com/dbzzslryr/image/upload/v1644945678/mlops_course/mlops_course.png)
+![MLOps Guide and Road Overview](https://github.com/vineetjaiss/ML-Roadmap/assets/118113801/1ebbac22-b6b7-4379-a785-293324a5d2e2)
 *Machine Learning in Production Guide and Roadmap Overview* 
 
 Building a machine learning model with high accuracy and performance is good but we need to move beyond that. To add more value to our machine learning model, we need to deploy the machine learning or deep learning model to production to solve real-life problems. Automating the process of deploying a model to production is sometimes known as MLOps. MLOps is an emerging and complex field because it requires a lot of components and skills. This repo makes the learning of MLOps easy.
